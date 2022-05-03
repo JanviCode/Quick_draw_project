@@ -1,0 +1,31 @@
+Body {
+
+background-color: cornflowerblue;
+
+}
+
+#score {
+
+font-size: large;
+
+float: left;
+
+margin-left: 20px;
+
+}
+
+#timer {
+
+    font-size: large;
+    
+    float: right;
+    
+    margin-left: 10px;
+    
+}
+
+#sketch_drawn {
+
+color: black;
+
+}
